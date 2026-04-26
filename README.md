@@ -1,5 +1,4 @@
-
-# Rag-project# PDF Chat App (RAG with FastAPI + LangChain + React)
+# PDF Chat App (RAG with FastAPI + LangChain + React)
 
 This project is a complete **Retrieval-Augmented Generation (RAG)** application.
 

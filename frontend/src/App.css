@@ -1,0 +1,13 @@
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f7f9fc 0%, #eef3f9 100%);
+}
+
+.card-title {
+  font-weight: 700;
+}
+
+.answer-text {
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
