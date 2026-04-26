@@ -1,7 +1,8 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || "http://127.0.0.1:8000";
+const API_BASE_URL =
+  process.env.REACT_APP_API_URL || "https://rag-project-k4hu.onrender.com";
 
 function App() {
   const [files, setFiles] = useState([]);
