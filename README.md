@@ -35,10 +35,6 @@ That is exactly what RAG means in practice.
 https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891
 
 
-### Demo Screenshots
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38852406-e76d-4508-a803-58be8a0b6cc1" />
-
 ---
 
 ## 2) Technologies Used
