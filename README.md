@@ -33,11 +33,7 @@ That is exactly what RAG means in practice.
 
 ### Demo Video
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891
 **Or download:** [Video Project.mp4](./Video%20Project.mp4)
 
 ### Demo Screenshots
