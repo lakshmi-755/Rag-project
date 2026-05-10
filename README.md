@@ -32,7 +32,7 @@ That is exactly what RAG means in practice.
 ## 🎥 Project Demo
 
 ### Demo Video
-https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891" type="video/mp4 
+https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891
 
 
 ### Demo Screenshots
