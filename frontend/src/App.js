@@ -1,8 +1,13 @@
 import { useState } from "react";
 import "./App.css";
 
+// Local: `npm start` → development → http://127.0.0.1:8000
+// Production build: defaults to deployed API unless REACT_APP_API_URL is set.
 const API_BASE_URL =
-  process.env.REACT_APP_API_URL || "https://rag-project-k4hu.onrender.com";
+  process.env.REACT_APP_API_URL?.replace(/\/$/, "") ||
+  (process.env.NODE_ENV === "development"
+    ? "http://127.0.0.1:8000"
+    : "https://rag-project-k4hu.onrender.com");
 
 function App() {
   const [files, setFiles] = useState([]);
