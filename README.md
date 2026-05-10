@@ -30,7 +30,7 @@ That is exactly what RAG means in practice.
 
 ---
 <video controls width="100%">
-  <source src="https://github.com/user-attachments/assets/590113400-745a66c6-a5e3-4b41-9384-a6bc22805891">
+  <source src="./Video Project.mp4" type="video/mp4">
 </video>
 ## 2) Technologies Used
 
