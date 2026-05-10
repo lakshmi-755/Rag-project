@@ -32,8 +32,10 @@ That is exactly what RAG means in practice.
 ## 🎥 Project Demo
 
 ### Demo Video
+<video controls width="100%">
+  <source src="https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891" type="video/mp4">
+</video>
 
-https://github.com/user-attachments/assets/745a66c6-a5e3-4b41-9384-a6bc22805891
 **Or download:** [Video Project.mp4](./Video%20Project.mp4)
 
 ### Demo Screenshots
