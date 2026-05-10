@@ -33,7 +33,10 @@ That is exactly what RAG means in practice.
 
 ### Demo Video
 
-https://github.com/lakshmi-755/Rag-project/assets/142668568/video-demo
+<video width="100%" controls>
+  <source src="https://github.com/lakshmi-755/Rag-project/assets/142668568/video-demo" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Or download:** [Video Project.mp4](./Video%20Project.mp4)
 
