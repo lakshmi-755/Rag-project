@@ -30,7 +30,7 @@ That is exactly what RAG means in practice.
 
 ---
 <video controls width="100%">
-  <source src="https://github.com/lakshmi-755/Rag-project/issues/1" type="video/mp4">
+  <source src="https://private-user-images.githubusercontent.com/142668568/590113400-745a66c6-a5e3-4b41-9384-a6bc22805891.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg0MjY2NDQsIm5iZiI6MTc3ODQyNjM0NCwicGF0aCI6Ii8xNDI2Njg1NjgvNTkwMTEzNDAwLTc0NWE2NmM2LWE1ZTMtNGI0MS05Mzg0LWE2YmMyMjgwNTg5MS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxMFQxNTE5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTNhMDVmYTJmZjFmZDQyY2ExNGY1ZmZlMjI3NjdiNjdjYzQ5ZDNiMGVkOTg5MDFkNzMwYzczOGE4MTRjOTY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9dmlkZW8lMkZtcDQifQ.u68i_mTLnr-0lc0FNljq08all6aa-G6ZZekmh7cUHew">
 </video>
 ## 2) Technologies Used
 
