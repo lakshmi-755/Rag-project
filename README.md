@@ -30,7 +30,7 @@ That is exactly what RAG means in practice.
 
 ---
 <video controls width="100%">
-  <source src="Video Project.mp4" type="video/mp4">
+  <source src="https://github.com/lakshmi-755/Rag-project/issues/1" type="video/mp4">
 </video>
 ## 2) Technologies Used
 
