@@ -29,8 +29,10 @@ So your app implements this flow:
 That is exactly what RAG means in practice.
 
 ---
+## 🎥 Project Demo
+
 <video controls width="100%">
-  <source src="./Video Project.mp4" type="video/mp4">
+  <source src="./Video%20Project.mp4" type="video/mp4">
 </video>
 ## 2) Technologies Used
 
