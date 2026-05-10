@@ -33,24 +33,9 @@ That is exactly what RAG means in practice.
 
 ### Demo Video
 
-Your project demo video can be displayed using one of these methods:
+https://github.com/lakshmi-755/Rag-project/assets/142668568/video-demo
 
-**Option 1: Video file in repository**
-```
-Simply add your Video%20Project.mp4 file to the root of your repository.
-GitHub will automatically allow downloads and viewing.
-```
-
-**Option 2: Embed video from external source**
-```markdown
-<!-- Replace with your actual video URL or upload to GitHub Releases -->
-![Demo Video](./Video%20Project.mp4)
-```
-
-**Option 3: YouTube or other streaming platform**
-```markdown
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
-```
+**Or download:** [Video Project.mp4](./Video%20Project.mp4)
 
 ### Demo Screenshots
 
