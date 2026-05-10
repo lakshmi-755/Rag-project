@@ -17,7 +17,8 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    # Must be False when using wildcard origins; True + * is rejected by browsers (breaks Netlify → Render).
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
