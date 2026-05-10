@@ -34,6 +34,8 @@ That is exactly what RAG means in practice.
 <video controls width="100%">
   <source src="./Video%20Project.mp4" type="video/mp4">
 </video>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38852406-e76d-4508-a803-58be8a0b6cc1" />
+
 ## 2) Technologies Used
 
 ### Backend
